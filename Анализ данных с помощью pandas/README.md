@@ -1,5 +1,5 @@
 В процессе работы над проектом, работа происходила следующим образом:    
-Аскарян К. (ссылка на GitHub - github.com/AskariyanKarine) - работа с библиотекой pandas, запись в файл, проверка кода через pylint;    
+Аскарян К. (ссылка на GitHub - github.com/AskaryanKarine) - работа с библиотекой pandas, запись в файл, проверка кода через pylint;    
 Иванов И. (ссылка на GitHub - github.com/tbR12) - написание README.md, поиск информации;  
 Колесов И. (ссылка на GitHub - github.com/enotik1poloskyn) - работа с библиотекой argparse, проверка кода через pylint. 
 
